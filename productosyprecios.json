@@ -2,28 +2,28 @@
     {
       "id": 1,
       "name": "Bronze",
-      "description": "Versión gratuita con funcionalidades básicas.",
+      "description": "Free version with basic functionalities.",
       "price": 0.00,
       "billing_cycle": "month"
     },
     {
       "id": 2,
       "name": "Silver",
-      "description": "Suscripción de pago con funcionalidades adicionales.",
+      "description": "Paid subscription with additional features.",
       "price": 4.99,
       "billing_cycle": "month"
     },
     {
       "id": 3,
       "name": "Gold",
-      "description": "Suscripción de pago con todas las funcionalidades.",
+      "description": "Paid subscription with all features.",
       "price": 9.99,
       "billing_cycle": "month"
     },
     {
       "id": 4,
       "name": "Platinum",
-      "description": "Suscripción premium con funcionalidades exclusivas.",
+      "description": "Premium subscription with exclusive features.",
       "price": 14.99,
       "billing_cycle": "month"
     }
